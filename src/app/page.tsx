@@ -92,7 +92,7 @@ export default function DashboardPage() {
           />
         </div>
         <div className="text-center">
-          <h1 className="text-4xl font-bold">iSENES-COOP: Smart Sensing System for Poultry House Monitoring</h1>
+          <h1 className="text-4xl font-bold">iSENS-COOP: Smart Sensing System for Poultry House Monitoring</h1>
         </div>
       </header>
 
