@@ -1,0 +1,1186 @@
+[
+  {
+    "Timestamp": "2025-07-01",
+    "Temperature (°C)": 30.6,
+    "Humidity (%)": 75.85,
+    "CO₂ (ppm)": 723,
+    "Ammonia (ppm)": 3.97,
+    "PM2.5 (µg/m³)": 26.3
+  },
+  {
+    "Timestamp": "2025-07-01",
+    "Temperature (°C)": 29.83,
+    "Humidity (%)": 76.93,
+    "CO₂ (ppm)": 670,
+    "Ammonia (ppm)": 4.44,
+    "PM2.5 (µg/m³)": 25.1
+  },
+  {
+    "Timestamp": "2025-07-01",
+    "Temperature (°C)": 30.78,
+    "Humidity (%)": 74.95,
+    "CO₂ (ppm)": 724,
+    "Ammonia (ppm)": 4.44,
+    "PM2.5 (µg/m³)": 28.5
+  },
+  {
+    "Timestamp": "2025-07-01",
+    "Temperature (°C)": 31.83,
+    "Humidity (%)": 73.04,
+    "CO₂ (ppm)": 746,
+    "Ammonia (ppm)": 4.17,
+    "PM2.5 (µg/m³)": 23
+  },
+  {
+    "Timestamp": "2025-07-02",
+    "Temperature (°C)": 29.72,
+    "Humidity (%)": 75.2,
+    "CO₂ (ppm)": 610,
+    "Ammonia (ppm)": 3.88,
+    "PM2.5 (µg/m³)": 22
+  },
+  {
+    "Timestamp": "2025-07-02",
+    "Temperature (°C)": 29.72,
+    "Humidity (%)": 77.03,
+    "CO₂ (ppm)": 624,
+    "Ammonia (ppm)": 3.9,
+    "PM2.5 (µg/m³)": 19.8
+  },
+  {
+    "Timestamp": "2025-07-02",
+    "Temperature (°C)": 31.9,
+    "Humidity (%)": 72.8,
+    "CO₂ (ppm)": 754,
+    "Ammonia (ppm)": 4.43,
+    "PM2.5 (µg/m³)": 23.2
+  },
+  {
+    "Timestamp": "2025-07-02",
+    "Temperature (°C)": 30.92,
+    "Humidity (%)": 72.73,
+    "CO₂ (ppm)": 718,
+    "Ammonia (ppm)": 4.44,
+    "PM2.5 (µg/m³)": 25.3
+  },
+  {
+    "Timestamp": "2025-07-03",
+    "Temperature (°C)": 29.44,
+    "Humidity (%)": 80.86,
+    "CO₂ (ppm)": 642,
+    "Ammonia (ppm)": 4.22,
+    "PM2.5 (µg/m³)": 27.5
+  },
+  {
+    "Timestamp": "2025-07-03",
+    "Temperature (°C)": 30.65,
+    "Humidity (%)": 75.65,
+    "CO₂ (ppm)": 685,
+    "Ammonia (ppm)": 4.51,
+    "PM2.5 (µg/m³)": 20.7
+  },
+  {
+    "Timestamp": "2025-07-03",
+    "Temperature (°C)": 29.44,
+    "Humidity (%)": 74.73,
+    "CO₂ (ppm)": 707,
+    "Ammonia (ppm)": 3.75,
+    "PM2.5 (µg/m³)": 26.1
+  },
+  {
+    "Timestamp": "2025-07-03",
+    "Temperature (°C)": 29.44,
+    "Humidity (%)": 78.43,
+    "CO₂ (ppm)": 614,
+    "Ammonia (ppm)": 4.04,
+    "PM2.5 (µg/m³)": 29.2
+  },
+  {
+    "Timestamp": "2025-07-04",
+    "Temperature (°C)": 30.29,
+    "Humidity (%)": 73.47,
+    "CO₂ (ppm)": 696,
+    "Ammonia (ppm)": 4,
+    "PM2.5 (µg/m³)": 24.9
+  },
+  {
+    "Timestamp": "2025-07-04",
+    "Temperature (°C)": 27.7,
+    "Humidity (%)": 82.17,
+    "CO₂ (ppm)": 581,
+    "Ammonia (ppm)": 3.82,
+    "PM2.5 (µg/m³)": 30.3
+  },
+  {
+    "Timestamp": "2025-07-04",
+    "Temperature (°C)": 27.93,
+    "Humidity (%)": 82.46,
+    "CO₂ (ppm)": 587,
+    "Ammonia (ppm)": 4.06,
+    "PM2.5 (µg/m³)": 20.1
+  },
+  {
+    "Timestamp": "2025-07-04",
+    "Temperature (°C)": 29.33,
+    "Humidity (%)": 75.71,
+    "CO₂ (ppm)": 695,
+    "Ammonia (ppm)": 3.61,
+    "PM2.5 (µg/m³)": 17.8
+  },
+  {
+    "Timestamp": "2025-07-05",
+    "Temperature (°C)": 28.78,
+    "Humidity (%)": 80.36,
+    "CO₂ (ppm)": 665,
+    "Ammonia (ppm)": 4.86,
+    "PM2.5 (µg/m³)": 16.4
+  },
+  {
+    "Timestamp": "2025-07-05",
+    "Temperature (°C)": 30.38,
+    "Humidity (%)": 76.07,
+    "CO₂ (ppm)": 712,
+    "Ammonia (ppm)": 4.33,
+    "PM2.5 (µg/m³)": 30.2
+  },
+  {
+    "Timestamp": "2025-07-05",
+    "Temperature (°C)": 28.91,
+    "Humidity (%)": 79.82,
+    "CO₂ (ppm)": 693,
+    "Ammonia (ppm)": 4.05,
+    "PM2.5 (µg/m³)": 26.2
+  },
+  {
+    "Timestamp": "2025-07-05",
+    "Temperature (°C)": 28.31,
+    "Humidity (%)": 83.18,
+    "CO₂ (ppm)": 610,
+    "Ammonia (ppm)": 4.47,
+    "PM2.5 (µg/m³)": 23.6
+  },
+  {
+    "Timestamp": "2025-07-06",
+    "Temperature (°C)": 31.76,
+    "Humidity (%)": 71.99,
+    "CO₂ (ppm)": 747,
+    "Ammonia (ppm)": 4.29,
+    "PM2.5 (µg/m³)": 25.7
+  },
+  {
+    "Timestamp": "2025-07-06",
+    "Temperature (°C)": 29.73,
+    "Humidity (%)": 75.03,
+    "CO₂ (ppm)": 636,
+    "Ammonia (ppm)": 3.96,
+    "PM2.5 (µg/m³)": 18.6
+  },
+  {
+    "Timestamp": "2025-07-06",
+    "Temperature (°C)": 30.08,
+    "Humidity (%)": 74.06,
+    "CO₂ (ppm)": 679,
+    "Ammonia (ppm)": 4.21,
+    "PM2.5 (µg/m³)": 33
+  },
+  {
+    "Timestamp": "2025-07-06",
+    "Temperature (°C)": 28.29,
+    "Humidity (%)": 77.79,
+    "CO₂ (ppm)": 602,
+    "Ammonia (ppm)": 4.09,
+    "PM2.5 (µg/m³)": 22.7
+  },
+  {
+    "Timestamp": "2025-07-07",
+    "Temperature (°C)": 29.35,
+    "Humidity (%)": 77.15,
+    "CO₂ (ppm)": 645,
+    "Ammonia (ppm)": 3.96,
+    "PM2.5 (µg/m³)": 23.7
+  },
+  {
+    "Timestamp": "2025-07-07",
+    "Temperature (°C)": 30.13,
+    "Humidity (%)": 76.42,
+    "CO₂ (ppm)": 694,
+    "Ammonia (ppm)": 4.11,
+    "PM2.5 (µg/m³)": 26.9
+  },
+  {
+    "Timestamp": "2025-07-07",
+    "Temperature (°C)": 28.62,
+    "Humidity (%)": 79.32,
+    "CO₂ (ppm)": 578,
+    "Ammonia (ppm)": 4.03,
+    "PM2.5 (µg/m³)": 25
+  },
+  {
+    "Timestamp": "2025-07-07",
+    "Temperature (°C)": 30.45,
+    "Humidity (%)": 76.75,
+    "CO₂ (ppm)": 778,
+    "Ammonia (ppm)": 3.72,
+    "PM2.5 (µg/m³)": 25.4
+  },
+  {
+    "Timestamp": "2025-07-08",
+    "Temperature (°C)": 29.28,
+    "Humidity (%)": 77.47,
+    "CO₂ (ppm)": 588,
+    "Ammonia (ppm)": 3.68,
+    "PM2.5 (µg/m³)": 20.1
+  },
+  {
+    "Timestamp": "2025-07-08",
+    "Temperature (°C)": 29.65,
+    "Humidity (%)": 79.61,
+    "CO₂ (ppm)": 589,
+    "Ammonia (ppm)": 4.87,
+    "PM2.5 (µg/m³)": 26.2
+  },
+  {
+    "Timestamp": "2025-07-08",
+    "Temperature (°C)": 29.28,
+    "Humidity (%)": 76.91,
+    "CO₂ (ppm)": 696,
+    "Ammonia (ppm)": 4.57,
+    "PM2.5 (µg/m³)": 30.6
+  },
+  {
+    "Timestamp": "2025-07-08",
+    "Temperature (°C)": 32.22,
+    "Humidity (%)": 76.99,
+    "CO₂ (ppm)": 766,
+    "Ammonia (ppm)": 4.89,
+    "PM2.5 (µg/m³)": 32
+  },
+  {
+    "Timestamp": "2025-07-09",
+    "Temperature (°C)": 29.98,
+    "Humidity (%)": 77.28,
+    "CO₂ (ppm)": 691,
+    "Ammonia (ppm)": 4.5,
+    "PM2.5 (µg/m³)": 30.4
+  },
+  {
+    "Timestamp": "2025-07-09",
+    "Temperature (°C)": 28.73,
+    "Humidity (%)": 76.82,
+    "CO₂ (ppm)": 653,
+    "Ammonia (ppm)": 4,
+    "PM2.5 (µg/m³)": 20.4
+  },
+  {
+    "Timestamp": "2025-07-09",
+    "Temperature (°C)": 30.99,
+    "Humidity (%)": 71.88,
+    "CO₂ (ppm)": 689,
+    "Ammonia (ppm)": 5.01,
+    "PM2.5 (µg/m³)": 19.7
+  },
+  {
+    "Timestamp": "2025-07-09",
+    "Temperature (°C)": 28.53,
+    "Humidity (%)": 79.89,
+    "CO₂ (ppm)": 571,
+    "Ammonia (ppm)": 4.49,
+    "PM2.5 (µg/m³)": 22.6
+  },
+  {
+    "Timestamp": "2025-07-10",
+    "Temperature (°C)": 30.25,
+    "Humidity (%)": 75.05,
+    "CO₂ (ppm)": 671,
+    "Ammonia (ppm)": 4.14,
+    "PM2.5 (µg/m³)": 23.9
+  },
+  {
+    "Timestamp": "2025-07-10",
+    "Temperature (°C)": 27.65,
+    "Humidity (%)": 82.13,
+    "CO₂ (ppm)": 556,
+    "Ammonia (ppm)": 3.82,
+    "PM2.5 (µg/m³)": 27.1
+  },
+  {
+    "Timestamp": "2025-07-10",
+    "Temperature (°C)": 28.41,
+    "Humidity (%)": 80.13,
+    "CO₂ (ppm)": 661,
+    "Ammonia (ppm)": 3.65,
+    "PM2.5 (µg/m³)": 16.3
+  },
+  {
+    "Timestamp": "2025-07-10",
+    "Temperature (°C)": 30.24,
+    "Humidity (%)": 75.38,
+    "CO₂ (ppm)": 660,
+    "Ammonia (ppm)": 4.27,
+    "PM2.5 (µg/m³)": 29.9
+  },
+  {
+    "Timestamp": "2025-07-11",
+    "Temperature (°C)": 30.89,
+    "Humidity (%)": 72.53,
+    "CO₂ (ppm)": 645,
+    "Ammonia (ppm)": 3.89,
+    "PM2.5 (µg/m³)": 23.1
+  },
+  {
+    "Timestamp": "2025-07-11",
+    "Temperature (°C)": 30.21,
+    "Humidity (%)": 72.56,
+    "CO₂ (ppm)": 650,
+    "Ammonia (ppm)": 3.49,
+    "PM2.5 (µg/m³)": 21.2
+  },
+  {
+    "Timestamp": "2025-07-11",
+    "Temperature (°C)": 29.86,
+    "Humidity (%)": 75.38,
+    "CO₂ (ppm)": 676,
+    "Ammonia (ppm)": 3.9,
+    "PM2.5 (µg/m³)": 19.3
+  },
+  {
+    "Timestamp": "2025-07-11",
+    "Temperature (°C)": 29.64,
+    "Humidity (%)": 78.44,
+    "CO₂ (ppm)": 621,
+    "Ammonia (ppm)": 4.01,
+    "PM2.5 (µg/m³)": 17.4
+  },
+  {
+    "Timestamp": "2025-07-12",
+    "Temperature (°C)": 28.23,
+    "Humidity (%)": 79.98,
+    "CO₂ (ppm)": 566,
+    "Ammonia (ppm)": 4.57,
+    "PM2.5 (µg/m³)": 26.1
+  },
+  {
+    "Timestamp": "2025-07-12",
+    "Temperature (°C)": 29.14,
+    "Humidity (%)": 75.24,
+    "CO₂ (ppm)": 646,
+    "Ammonia (ppm)": 4.13,
+    "PM2.5 (µg/m³)": 22.7
+  },
+  {
+    "Timestamp": "2025-07-12",
+    "Temperature (°C)": 29.45,
+    "Humidity (%)": 77.45,
+    "CO₂ (ppm)": 656,
+    "Ammonia (ppm)": 4.18,
+    "PM2.5 (µg/m³)": 18.3
+  },
+  {
+    "Timestamp": "2025-07-12",
+    "Temperature (°C)": 31.27,
+    "Humidity (%)": 74.23,
+    "CO₂ (ppm)": 673,
+    "Ammonia (ppm)": 4.85,
+    "PM2.5 (µg/m³)": 19.5
+  },
+  {
+    "Timestamp": "2025-07-13",
+    "Temperature (°C)": 30.41,
+    "Humidity (%)": 73.41,
+    "CO₂ (ppm)": 649,
+    "Ammonia (ppm)": 4.09,
+    "PM2.5 (µg/m³)": 22.1
+  },
+  {
+    "Timestamp": "2025-07-13",
+    "Temperature (°C)": 27.88,
+    "Humidity (%)": 80.54,
+    "CO₂ (ppm)": 608,
+    "Ammonia (ppm)": 3.76,
+    "PM2.5 (µg/m³)": 29.2
+  },
+  {
+    "Timestamp": "2025-07-13",
+    "Temperature (°C)": 30.39,
+    "Humidity (%)": 75.34,
+    "CO₂ (ppm)": 599,
+    "Ammonia (ppm)": 4.71,
+    "PM2.5 (µg/m³)": 22.9
+  },
+  {
+    "Timestamp": "2025-07-13",
+    "Temperature (°C)": 29.54,
+    "Humidity (%)": 74.64,
+    "CO₂ (ppm)": 576,
+    "Ammonia (ppm)": 4.09,
+    "PM2.5 (µg/m³)": 16.7
+  },
+  {
+    "Timestamp": "2025-07-14",
+    "Temperature (°C)": 29.19,
+    "Humidity (%)": 78.34,
+    "CO₂ (ppm)": 600,
+    "Ammonia (ppm)": 3.88,
+    "PM2.5 (µg/m³)": 22.4
+  },
+  {
+    "Timestamp": "2025-07-14",
+    "Temperature (°C)": 30.73,
+    "Humidity (%)": 75.65,
+    "CO₂ (ppm)": 671,
+    "Ammonia (ppm)": 4.33,
+    "PM2.5 (µg/m³)": 23.4
+  },
+  {
+    "Timestamp": "2025-07-14",
+    "Temperature (°C)": 31.24,
+    "Humidity (%)": 75.69,
+    "CO₂ (ppm)": 713,
+    "Ammonia (ppm)": 4.28,
+    "PM2.5 (µg/m³)": 14.3
+  },
+  {
+    "Timestamp": "2025-07-14",
+    "Temperature (°C)": 31.12,
+    "Humidity (%)": 75.87,
+    "CO₂ (ppm)": 767,
+    "Ammonia (ppm)": 4.11,
+    "PM2.5 (µg/m³)": 24.8
+  },
+  {
+    "Timestamp": "2025-07-15",
+    "Temperature (°C)": 28.99,
+    "Humidity (%)": 75.26,
+    "CO₂ (ppm)": 673,
+    "Ammonia (ppm)": 4.1,
+    "PM2.5 (µg/m³)": 21.3
+  },
+  {
+    "Timestamp": "2025-07-15",
+    "Temperature (°C)": 29.63,
+    "Humidity (%)": 74.87,
+    "CO₂ (ppm)": 641,
+    "Ammonia (ppm)": 4.55,
+    "PM2.5 (µg/m³)": 25.7
+  },
+  {
+    "Timestamp": "2025-07-15",
+    "Temperature (°C)": 30.4,
+    "Humidity (%)": 76.24,
+    "CO₂ (ppm)": 671,
+    "Ammonia (ppm)": 3.92,
+    "PM2.5 (µg/m³)": 31.6
+  },
+  {
+    "Timestamp": "2025-07-15",
+    "Temperature (°C)": 31.17,
+    "Humidity (%)": 74.69,
+    "CO₂ (ppm)": 645,
+    "Ammonia (ppm)": 4.59,
+    "PM2.5 (µg/m³)": 29.2
+  },
+  {
+    "Timestamp": "2025-07-16",
+    "Temperature (°C)": 29.42,
+    "Humidity (%)": 78.18,
+    "CO₂ (ppm)": 642,
+    "Ammonia (ppm)": 4.05,
+    "PM2.5 (µg/m³)": 22.6
+  },
+  {
+    "Timestamp": "2025-07-16",
+    "Temperature (°C)": 29.78,
+    "Humidity (%)": 84.15,
+    "CO₂ (ppm)": 639,
+    "Ammonia (ppm)": 4.8,
+    "PM2.5 (µg/m³)": 21.5
+  },
+  {
+    "Timestamp": "2025-07-16",
+    "Temperature (°C)": 28.67,
+    "Humidity (%)": 79.8,
+    "CO₂ (ppm)": 636,
+    "Ammonia (ppm)": 4,
+    "PM2.5 (µg/m³)": 33.5
+  },
+  {
+    "Timestamp": "2025-07-16",
+    "Temperature (°C)": 28.56,
+    "Humidity (%)": 81.14,
+    "CO₂ (ppm)": 576,
+    "Ammonia (ppm)": 4.02,
+    "PM2.5 (µg/m³)": 23.8
+  },
+  {
+    "Timestamp": "2025-07-17",
+    "Temperature (°C)": 30.98,
+    "Humidity (%)": 75.96,
+    "CO₂ (ppm)": 715,
+    "Ammonia (ppm)": 4.5,
+    "PM2.5 (µg/m³)": 24.9
+  },
+  {
+    "Timestamp": "2025-07-17",
+    "Temperature (°C)": 31.63,
+    "Humidity (%)": 74.05,
+    "CO₂ (ppm)": 785,
+    "Ammonia (ppm)": 4.24,
+    "PM2.5 (µg/m³)": 25
+  },
+  {
+    "Timestamp": "2025-07-17",
+    "Temperature (°C)": 29.91,
+    "Humidity (%)": 75.54,
+    "CO₂ (ppm)": 652,
+    "Ammonia (ppm)": 4.21,
+    "PM2.5 (µg/m³)": 24.3
+  },
+  {
+    "Timestamp": "2025-07-17",
+    "Temperature (°C)": 31.2,
+    "Humidity (%)": 75.11,
+    "CO₂ (ppm)": 716,
+    "Ammonia (ppm)": 4.46,
+    "PM2.5 (µg/m³)": 24.3
+  },
+  {
+    "Timestamp": "2025-07-18",
+    "Temperature (°C)": 30.43,
+    "Humidity (%)": 73.59,
+    "CO₂ (ppm)": 708,
+    "Ammonia (ppm)": 4.02,
+    "PM2.5 (µg/m³)": 21.2
+  },
+  {
+    "Timestamp": "2025-07-18",
+    "Temperature (°C)": 29.23,
+    "Humidity (%)": 77.07,
+    "CO₂ (ppm)": 617,
+    "Ammonia (ppm)": 3.8,
+    "PM2.5 (µg/m³)": 20.9
+  },
+  {
+    "Timestamp": "2025-07-18",
+    "Temperature (°C)": 30.43,
+    "Humidity (%)": 74.16,
+    "CO₂ (ppm)": 684,
+    "Ammonia (ppm)": 3.97,
+    "PM2.5 (µg/m³)": 23.5
+  },
+  {
+    "Timestamp": "2025-07-18",
+    "Temperature (°C)": 31.85,
+    "Humidity (%)": 72.47,
+    "CO₂ (ppm)": 716,
+    "Ammonia (ppm)": 4.63,
+    "PM2.5 (µg/m³)": 22.7
+  },
+  {
+    "Timestamp": "2025-07-19",
+    "Temperature (°C)": 29.96,
+    "Humidity (%)": 80.72,
+    "CO₂ (ppm)": 664,
+    "Ammonia (ppm)": 4.81,
+    "PM2.5 (µg/m³)": 22.2
+  },
+  {
+    "Timestamp": "2025-07-19",
+    "Temperature (°C)": 31.88,
+    "Humidity (%)": 68.51,
+    "CO₂ (ppm)": 678,
+    "Ammonia (ppm)": 3.72,
+    "PM2.5 (µg/m³)": 24.1
+  },
+  {
+    "Timestamp": "2025-07-19",
+    "Temperature (°C)": 26.86,
+    "Humidity (%)": 83.66,
+    "CO₂ (ppm)": 567,
+    "Ammonia (ppm)": 4.05,
+    "PM2.5 (µg/m³)": 21.2
+  },
+  {
+    "Timestamp": "2025-07-19",
+    "Temperature (°C)": 30.99,
+    "Humidity (%)": 70.8,
+    "CO₂ (ppm)": 714,
+    "Ammonia (ppm)": 4.2,
+    "PM2.5 (µg/m³)": 29.3
+  },
+  {
+    "Timestamp": "2025-07-20",
+    "Temperature (°C)": 30.1,
+    "Humidity (%)": 74.85,
+    "CO₂ (ppm)": 736,
+    "Ammonia (ppm)": 3.62,
+    "PM2.5 (µg/m³)": 12.9
+  },
+  {
+    "Timestamp": "2025-07-20",
+    "Temperature (°C)": 29.64,
+    "Humidity (%)": 78.9,
+    "CO₂ (ppm)": 697,
+    "Ammonia (ppm)": 4.54,
+    "PM2.5 (µg/m³)": 28.5
+  },
+  {
+    "Timestamp": "2025-07-20",
+    "Temperature (°C)": 30.11,
+    "Humidity (%)": 75.91,
+    "CO₂ (ppm)": 771,
+    "Ammonia (ppm)": 4.03,
+    "PM2.5 (µg/m³)": 28.8
+  },
+  {
+    "Timestamp": "2025-07-20",
+    "Temperature (°C)": 27.61,
+    "Humidity (%)": 78.61,
+    "CO₂ (ppm)": 550,
+    "Ammonia (ppm)": 3.92,
+    "PM2.5 (µg/m³)": 13.3
+  },
+  {
+    "Timestamp": "2025-07-21",
+    "Temperature (°C)": 29.74,
+    "Humidity (%)": 75.1,
+    "CO₂ (ppm)": 696,
+    "Ammonia (ppm)": 3.8,
+    "PM2.5 (µg/m³)": 21.7
+  },
+  {
+    "Timestamp": "2025-07-21",
+    "Temperature (°C)": 30.43,
+    "Humidity (%)": 76.5,
+    "CO₂ (ppm)": 682,
+    "Ammonia (ppm)": 3.84,
+    "PM2.5 (µg/m³)": 22.9
+  },
+  {
+    "Timestamp": "2025-07-21",
+    "Temperature (°C)": 31.77,
+    "Humidity (%)": 70.99,
+    "CO₂ (ppm)": 823,
+    "Ammonia (ppm)": 3.74,
+    "PM2.5 (µg/m³)": 18.7
+  },
+  {
+    "Timestamp": "2025-07-21",
+    "Temperature (°C)": 29.38,
+    "Humidity (%)": 77.68,
+    "CO₂ (ppm)": 601,
+    "Ammonia (ppm)": 4.2,
+    "PM2.5 (µg/m³)": 20.3
+  },
+  {
+    "Timestamp": "2025-07-22",
+    "Temperature (°C)": 29.03,
+    "Humidity (%)": 78.03,
+    "CO₂ (ppm)": 589,
+    "Ammonia (ppm)": 4.19,
+    "PM2.5 (µg/m³)": 18.7
+  },
+  {
+    "Timestamp": "2025-07-22",
+    "Temperature (°C)": 29.4,
+    "Humidity (%)": 75.9,
+    "CO₂ (ppm)": 612,
+    "Ammonia (ppm)": 3.74,
+    "PM2.5 (µg/m³)": 30
+  },
+  {
+    "Timestamp": "2025-07-22",
+    "Temperature (°C)": 31.1,
+    "Humidity (%)": 78.09,
+    "CO₂ (ppm)": 587,
+    "Ammonia (ppm)": 4.93,
+    "PM2.5 (µg/m³)": 29.4
+  },
+  {
+    "Timestamp": "2025-07-22",
+    "Temperature (°C)": 30.39,
+    "Humidity (%)": 76.48,
+    "CO₂ (ppm)": 646,
+    "Ammonia (ppm)": 3.87,
+    "PM2.5 (µg/m³)": 29.4
+  },
+  {
+    "Timestamp": "2025-07-23",
+    "Temperature (°C)": 29.36,
+    "Humidity (%)": 73.22,
+    "CO₂ (ppm)": 603,
+    "Ammonia (ppm)": 3.71,
+    "PM2.5 (µg/m³)": 25
+  },
+  {
+    "Timestamp": "2025-07-23",
+    "Temperature (°C)": 30.62,
+    "Humidity (%)": 75.14,
+    "CO₂ (ppm)": 686,
+    "Ammonia (ppm)": 3.94,
+    "PM2.5 (µg/m³)": 19.7
+  },
+  {
+    "Timestamp": "2025-07-23",
+    "Temperature (°C)": 30.12,
+    "Humidity (%)": 74.44,
+    "CO₂ (ppm)": 681,
+    "Ammonia (ppm)": 3.88,
+    "PM2.5 (µg/m³)": 21.3
+  },
+  {
+    "Timestamp": "2025-07-23",
+    "Temperature (°C)": 31.16,
+    "Humidity (%)": 75.38,
+    "CO₂ (ppm)": 789,
+    "Ammonia (ppm)": 4.5,
+    "PM2.5 (µg/m³)": 26.9
+  },
+  {
+    "Timestamp": "2025-07-24",
+    "Temperature (°C)": 29.16,
+    "Humidity (%)": 76.1,
+    "CO₂ (ppm)": 682,
+    "Ammonia (ppm)": 3.7,
+    "PM2.5 (µg/m³)": 17.8
+  },
+  {
+    "Timestamp": "2025-07-24",
+    "Temperature (°C)": 29.61,
+    "Humidity (%)": 76.56,
+    "CO₂ (ppm)": 619,
+    "Ammonia (ppm)": 4.02,
+    "PM2.5 (µg/m³)": 26.2
+  },
+  {
+    "Timestamp": "2025-07-24",
+    "Temperature (°C)": 29.53,
+    "Humidity (%)": 77.95,
+    "CO₂ (ppm)": 601,
+    "Ammonia (ppm)": 4.56,
+    "PM2.5 (µg/m³)": 22.8
+  },
+  {
+    "Timestamp": "2025-07-24",
+    "Temperature (°C)": 28.24,
+    "Humidity (%)": 81.24,
+    "CO₂ (ppm)": 632,
+    "Ammonia (ppm)": 4.02,
+    "PM2.5 (µg/m³)": 21.7
+  },
+  {
+    "Timestamp": "2025-07-25",
+    "Temperature (°C)": 30.36,
+    "Humidity (%)": 72.89,
+    "CO₂ (ppm)": 605,
+    "Ammonia (ppm)": 4.25,
+    "PM2.5 (µg/m³)": 26
+  },
+  {
+    "Timestamp": "2025-07-25",
+    "Temperature (°C)": 30.31,
+    "Humidity (%)": 74.7,
+    "CO₂ (ppm)": 761,
+    "Ammonia (ppm)": 3.83,
+    "PM2.5 (µg/m³)": 25.5
+  },
+  {
+    "Timestamp": "2025-07-25",
+    "Temperature (°C)": 30.01,
+    "Humidity (%)": 75.04,
+    "CO₂ (ppm)": 719,
+    "Ammonia (ppm)": 4.26,
+    "PM2.5 (µg/m³)": 22
+  },
+  {
+    "Timestamp": "2025-07-25",
+    "Temperature (°C)": 29.72,
+    "Humidity (%)": 75.26,
+    "CO₂ (ppm)": 628,
+    "Ammonia (ppm)": 4.47,
+    "PM2.5 (µg/m³)": 27.8
+  },
+  {
+    "Timestamp": "2025-07-26",
+    "Temperature (°C)": 28.3,
+    "Humidity (%)": 82.93,
+    "CO₂ (ppm)": 523,
+    "Ammonia (ppm)": 3.64,
+    "PM2.5 (µg/m³)": 19.4
+  },
+  {
+    "Timestamp": "2025-07-26",
+    "Temperature (°C)": 29.5,
+    "Humidity (%)": 77.82,
+    "CO₂ (ppm)": 713,
+    "Ammonia (ppm)": 3.99,
+    "PM2.5 (µg/m³)": 26.1
+  },
+  {
+    "Timestamp": "2025-07-26",
+    "Temperature (°C)": 29.59,
+    "Humidity (%)": 74.3,
+    "CO₂ (ppm)": 642,
+    "Ammonia (ppm)": 4.08,
+    "PM2.5 (µg/m³)": 25.1
+  },
+  {
+    "Timestamp": "2025-07-26",
+    "Temperature (°C)": 29.04,
+    "Humidity (%)": 79.76,
+    "CO₂ (ppm)": 693,
+    "Ammonia (ppm)": 4.23,
+    "PM2.5 (µg/m³)": 22.4
+  },
+  {
+    "Timestamp": "2025-07-27",
+    "Temperature (°C)": 29.81,
+    "Humidity (%)": 80.63,
+    "CO₂ (ppm)": 574,
+    "Ammonia (ppm)": 4.72,
+    "PM2.5 (µg/m³)": 26.2
+  },
+  {
+    "Timestamp": "2025-07-27",
+    "Temperature (°C)": 30.48,
+    "Humidity (%)": 77.1,
+    "CO₂ (ppm)": 645,
+    "Ammonia (ppm)": 4.27,
+    "PM2.5 (µg/m³)": 19.6
+  },
+  {
+    "Timestamp": "2025-07-27",
+    "Temperature (°C)": 32.26,
+    "Humidity (%)": 68.43,
+    "CO₂ (ppm)": 728,
+    "Ammonia (ppm)": 4.15,
+    "PM2.5 (µg/m³)": 27.8
+  },
+  {
+    "Timestamp": "2025-07-27",
+    "Temperature (°C)": 30.21,
+    "Humidity (%)": 74.61,
+    "CO₂ (ppm)": 669,
+    "Ammonia (ppm)": 4.08,
+    "PM2.5 (µg/m³)": 22.8
+  },
+  {
+    "Timestamp": "2025-07-28",
+    "Temperature (°C)": 30.31,
+    "Humidity (%)": 77.92,
+    "CO₂ (ppm)": 647,
+    "Ammonia (ppm)": 4.83,
+    "PM2.5 (µg/m³)": 22.6
+  },
+  {
+    "Timestamp": "2025-07-28",
+    "Temperature (°C)": 29.91,
+    "Humidity (%)": 74.76,
+    "CO₂ (ppm)": 688,
+    "Ammonia (ppm)": 4.13,
+    "PM2.5 (µg/m³)": 27.4
+  },
+  {
+    "Timestamp": "2025-07-28",
+    "Temperature (°C)": 27.7,
+    "Humidity (%)": 81.49,
+    "CO₂ (ppm)": 538,
+    "Ammonia (ppm)": 4.16,
+    "PM2.5 (µg/m³)": 19.8
+  },
+  {
+    "Timestamp": "2025-07-28",
+    "Temperature (°C)": 29.97,
+    "Humidity (%)": 77.61,
+    "CO₂ (ppm)": 652,
+    "Ammonia (ppm)": 4.23,
+    "PM2.5 (µg/m³)": 18.5
+  },
+  {
+    "Timestamp": "2025-07-29",
+    "Temperature (°C)": 30.07,
+    "Humidity (%)": 74,
+    "CO₂ (ppm)": 668,
+    "Ammonia (ppm)": 3.88,
+    "PM2.5 (µg/m³)": 17
+  },
+  {
+    "Timestamp": "2025-07-29",
+    "Temperature (°C)": 32.96,
+    "Humidity (%)": 69.97,
+    "CO₂ (ppm)": 774,
+    "Ammonia (ppm)": 4.35,
+    "PM2.5 (µg/m³)": 27.9
+  },
+  {
+    "Timestamp": "2025-07-29",
+    "Temperature (°C)": 29.77,
+    "Humidity (%)": 69.98,
+    "CO₂ (ppm)": 689,
+    "Ammonia (ppm)": 3.65,
+    "PM2.5 (µg/m³)": 16.5
+  },
+  {
+    "Timestamp": "2025-07-29",
+    "Temperature (°C)": 30.36,
+    "Humidity (%)": 73.23,
+    "CO₂ (ppm)": 615,
+    "Ammonia (ppm)": 3.91,
+    "PM2.5 (µg/m³)": 30.3
+  },
+  {
+    "Timestamp": "2025-07-30",
+    "Temperature (°C)": 29.96,
+    "Humidity (%)": 75.58,
+    "CO₂ (ppm)": 582,
+    "Ammonia (ppm)": 4.23,
+    "PM2.5 (µg/m³)": 15.2
+  },
+  {
+    "Timestamp": "2025-07-30",
+    "Temperature (°C)": 28.6,
+    "Humidity (%)": 76.31,
+    "CO₂ (ppm)": 682,
+    "Ammonia (ppm)": 4.43,
+    "PM2.5 (µg/m³)": 28.9
+  },
+  {
+    "Timestamp": "2025-07-30",
+    "Temperature (°C)": 31.37,
+    "Humidity (%)": 76.52,
+    "CO₂ (ppm)": 718,
+    "Ammonia (ppm)": 4.92,
+    "PM2.5 (µg/m³)": 26.3
+  },
+  {
+    "Timestamp": "2025-07-30",
+    "Temperature (°C)": 30.9,
+    "Humidity (%)": 71.34,
+    "CO₂ (ppm)": 650,
+    "Ammonia (ppm)": 3.91,
+    "PM2.5 (µg/m³)": 23
+  },
+  {
+    "Timestamp": "2025-07-31",
+    "Temperature (°C)": 30.95,
+    "Humidity (%)": 73.22,
+    "CO₂ (ppm)": 766,
+    "Ammonia (ppm)": 4.57,
+    "PM2.5 (µg/m³)": 21.8
+  },
+  {
+    "Timestamp": "2025-07-31",
+    "Temperature (°C)": 28.91,
+    "Humidity (%)": 78.44,
+    "CO₂ (ppm)": 633,
+    "Ammonia (ppm)": 3.99,
+    "PM2.5 (µg/m³)": 24.7
+  },
+  {
+    "Timestamp": "2025-07-31",
+    "Temperature (°C)": 31.68,
+    "Humidity (%)": 75.52,
+    "CO₂ (ppm)": 769,
+    "Ammonia (ppm)": 4.05,
+    "PM2.5 (µg/m³)": 25.4
+  },
+  {
+    "Timestamp": "2025-07-31",
+    "Temperature (°C)": 28.32,
+    "Humidity (%)": 76.49,
+    "CO₂ (ppm)": 613,
+    "Ammonia (ppm)": 3.44,
+    "PM2.5 (µg/m³)": 26.2
+  },
+  {
+    "Timestamp": "2025-08-01",
+    "Temperature (°C)": 30.7,
+    "Humidity (%)": 76.92,
+    "CO₂ (ppm)": 784,
+    "Ammonia (ppm)": 3.94,
+    "PM2.5 (µg/m³)": 25.3
+  },
+  {
+    "Timestamp": "2025-08-01",
+    "Temperature (°C)": 32.63,
+    "Humidity (%)": 70.76,
+    "CO₂ (ppm)": 827,
+    "Ammonia (ppm)": 4.36,
+    "PM2.5 (µg/m³)": 25.9
+  },
+  {
+    "Timestamp": "2025-08-01",
+    "Temperature (°C)": 28.81,
+    "Humidity (%)": 76.41,
+    "CO₂ (ppm)": 612,
+    "Ammonia (ppm)": 3.89,
+    "PM2.5 (µg/m³)": 20.9
+  },
+  {
+    "Timestamp": "2025-08-01",
+    "Temperature (°C)": 29.32,
+    "Humidity (%)": 78.28,
+    "CO₂ (ppm)": 688,
+    "Ammonia (ppm)": 4.73,
+    "PM2.5 (µg/m³)": 23.3
+  },
+  {
+    "Timestamp": "2025-08-02",
+    "Temperature (°C)": 30.12,
+    "Humidity (%)": 76.16,
+    "CO₂ (ppm)": 696,
+    "Ammonia (ppm)": 4.35,
+    "PM2.5 (µg/m³)": 25.1
+  },
+  {
+    "Timestamp": "2025-08-02",
+    "Temperature (°C)": 29.4,
+    "Humidity (%)": 76.01,
+    "CO₂ (ppm)": 710,
+    "Ammonia (ppm)": 3.95,
+    "PM2.5 (µg/m³)": 16.1
+  },
+  {
+    "Timestamp": "2025-08-02",
+    "Temperature (°C)": 28.14,
+    "Humidity (%)": 79.86,
+    "CO₂ (ppm)": 556,
+    "Ammonia (ppm)": 4.28,
+    "PM2.5 (µg/m³)": 17.2
+  },
+  {
+    "Timestamp": "2025-08-02",
+    "Temperature (°C)": 30.08,
+    "Humidity (%)": 75.06,
+    "CO₂ (ppm)": 697,
+    "Ammonia (ppm)": 3.47,
+    "PM2.5 (µg/m³)": 26.5
+  },
+  {
+    "Timestamp": "2025-08-03",
+    "Temperature (°C)": 28.73,
+    "Humidity (%)": 78.78,
+    "CO₂ (ppm)": 675,
+    "Ammonia (ppm)": 4.17,
+    "PM2.5 (µg/m³)": 23.7
+  },
+  {
+    "Timestamp": "2025-08-03",
+    "Temperature (°C)": 30.57,
+    "Humidity (%)": 76.19,
+    "CO₂ (ppm)": 589,
+    "Ammonia (ppm)": 4.62,
+    "PM2.5 (µg/m³)": 23.7
+  },
+  {
+    "Timestamp": "2025-08-03",
+    "Temperature (°C)": 28.9,
+    "Humidity (%)": 81.38,
+    "CO₂ (ppm)": 568,
+    "Ammonia (ppm)": 3.96,
+    "PM2.5 (µg/m³)": 24.1
+  },
+  {
+    "Timestamp": "2025-08-03",
+    "Temperature (°C)": 31.86,
+    "Humidity (%)": 69.8,
+    "CO₂ (ppm)": 614,
+    "Ammonia (ppm)": 4.48,
+    "PM2.5 (µg/m³)": 25.5
+  },
+  {
+    "Timestamp": "2025-08-04",
+    "Temperature (°C)": 29.06,
+    "Humidity (%)": 82.15,
+    "CO₂ (ppm)": 618,
+    "Ammonia (ppm)": 4.63,
+    "PM2.5 (µg/m³)": 22.3
+  },
+  {
+    "Timestamp": "2025-08-04",
+    "Temperature (°C)": 29.61,
+    "Humidity (%)": 72.87,
+    "CO₂ (ppm)": 684,
+    "Ammonia (ppm)": 3.65,
+    "PM2.5 (µg/m³)": 19.2
+  },
+  {
+    "Timestamp": "2025-08-04",
+    "Temperature (°C)": 30.98,
+    "Humidity (%)": 73.74,
+    "CO₂ (ppm)": 764,
+    "Ammonia (ppm)": 4.46,
+    "PM2.5 (µg/m³)": 25
+  },
+  {
+    "Timestamp": "2025-08-04",
+    "Temperature (°C)": 28.52,
+    "Humidity (%)": 80.13,
+    "CO₂ (ppm)": 619,
+    "Ammonia (ppm)": 4.85,
+    "PM2.5 (µg/m³)": 19.3
+  },
+  {
+    "Timestamp": "2025-08-05",
+    "Temperature (°C)": 30.27,
+    "Humidity (%)": 76.02,
+    "CO₂ (ppm)": 750,
+    "Ammonia (ppm)": 4.34,
+    "PM2.5 (µg/m³)": 25.7
+  },
+  {
+    "Timestamp": "2025-08-05",
+    "Temperature (°C)": 31.57,
+    "Humidity (%)": 71.62,
+    "CO₂ (ppm)": 638,
+    "Ammonia (ppm)": 4.31,
+    "PM2.5 (µg/m³)": 17.5
+  },
+  {
+    "Timestamp": "2025-08-05",
+    "Temperature (°C)": 28.07,
+    "Humidity (%)": 79.44,
+    "CO₂ (ppm)": 517,
+    "Ammonia (ppm)": 3.83,
+    "PM2.5 (µg/m³)": 26.5
+  },
+  {
+    "Timestamp": "2025-08-05",
+    "Temperature (°C)": 30.22,
+    "Humidity (%)": 74.57,
+    "CO₂ (ppm)": 664,
+    "Ammonia (ppm)": 3.87,
+    "PM2.5 (µg/m³)": 25.4
+  },
+  {
+    "Timestamp": "2025-08-06",
+    "Temperature (°C)": 30.31,
+    "Humidity (%)": 74.2,
+    "CO₂ (ppm)": 689,
+    "Ammonia (ppm)": 4.36,
+    "PM2.5 (µg/m³)": 24.6
+  },
+  {
+    "Timestamp": "2025-08-06",
+    "Temperature (°C)": 30.94,
+    "Humidity (%)": 75.82,
+    "CO₂ (ppm)": 687,
+    "Ammonia (ppm)": 4.21,
+    "PM2.5 (µg/m³)": 28.7
+  },
+  {
+    "Timestamp": "2025-08-06",
+    "Temperature (°C)": 28.52,
+    "Humidity (%)": 79.68,
+    "CO₂ (ppm)": 512,
+    "Ammonia (ppm)": 4.14,
+    "PM2.5 (µg/m³)": 29.7
+  },
+  {
+    "Timestamp": "2025-08-06",
+    "Temperature (°C)": 28.42,
+    "Humidity (%)": 77.78,
+    "CO₂ (ppm)": 608,
+    "Ammonia (ppm)": 3.76,
+    "PM2.5 (µg/m³)": 26.4
+  }
+]
