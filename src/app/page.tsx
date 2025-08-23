@@ -33,17 +33,18 @@ export default function DashboardPage() {
   useEffect(() => {
     fetch("/data/broiler_data.json")
       .then((res) => res.json())
-      .then((json) => {
-        const mapped = json.map((item: any) => ({
-          time: item["Timestamp"],
-          temp: item["Temperature (°C)"],
-          humidity: item["Humidity (%)"],
-          co2: item["CO₂ (ppm)"],
-          nh3: item["Ammonia (ppm)"],
-          pm25: item["PM2.5 (µg/m³)"],
+      .then((json: Record<string, unknown>[]) => {
+        const mapped: DataPoint[] = json.map((item) => ({
+          time: String(item["Timestamp"]),
+          temp: Number(item["Temperature (°C)"]),
+          humidity: Number(item["Humidity (%)"]),
+          co2: Number(item["CO₂ (ppm)"]),
+          nh3: Number(item["Ammonia (ppm)"]),
+          pm25: Number(item["PM2.5 (µg/m³)"]),
         }));
         setAllData(mapped);
       });
+
   }, []);
 
   // loop data realtime (6 titik terakhir)
