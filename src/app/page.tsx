@@ -196,8 +196,7 @@ export default function DashboardPage() {
       {/* Header */}
       <header className="flex flex-col items-center gap-4 mb-2">
         <div className="flex gap-4">
-          <img src="/img/umpsa.png" alt="Logo UMPSA" className="h-20 object-contain" />
-          <img src="/img/pprn.png" alt="Logo PPRN" className="h-20 object-contain" />
+          <img src="/img/umpsa.png" alt="Logo UMPSA" className="h-30 object-contain" />
         </div>
         <div className="text-center">
           <h1 className="text-4xl font-bold">iSENS-COOP: Smart Sensing System for Poultry House Monitoring</h1>
