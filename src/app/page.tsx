@@ -521,7 +521,7 @@ export default function DashboardPage() {
                 className="absolute inset-0 pointer-events-none opacity-40"
                 style={{
                   background:
-                    "radial-gradient(circle at 30% 40%, #ff0000, transparent 40%), radial-gradient(circle at 70% 60%, #ffa500, transparent 35%), radial-gradient(circle at 50% 30%, #ffff00, transparent 30%)",
+                    "radial-gradient(circle at 30% 40%, #ffa500, transparent 40%), radial-gradient(circle at 70% 60%, #ff0000, transparent 35%), radial-gradient(circle at 50% 30%, #ffff00, transparent 30%)",
                 }}
               />
               <div className="absolute bottom-2 right-2 bg-white/80 backdrop-blur px-3 py-1 rounded-lg text-xs">
