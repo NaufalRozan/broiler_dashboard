@@ -430,7 +430,7 @@ export default function DashboardPage() {
 
       {/* ============ Health & Behavior Monitoring (Prototype) ============ */}
       <section>
-        <h2 className="text-2xl font-semibold mb-4">Health & Behavior Monitoring (Prototype)</h2>
+        <h2 className="text-2xl font-semibold mb-4">Health & Behavior Monitoring</h2>
 
         {/* Row: Mortality + Vision */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
